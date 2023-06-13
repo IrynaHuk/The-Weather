@@ -3,7 +3,7 @@ body {
   font-weight: bold;
 }
 #container {
-  background-image: url("src/sky.jpg");
+  background-image: url("sky.jpg");
 }
 .row {
   padding: 20px;
